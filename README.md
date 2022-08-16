@@ -14,5 +14,7 @@ or, just simply click the open icon on LeeWindowsList's class side.
 It will open a window, listing all the windows opened, then click to switch.
 
 ![Demo Window](docs/LeeWindowTools_demo.png)
-## Known bug
+## Known bugs
 - close some windows, the LeeWindowsList listing window won't refresh.
+- the menu windows should not display.
+- the initial opened window is too small.
