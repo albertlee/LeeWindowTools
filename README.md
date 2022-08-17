@@ -1,8 +1,14 @@
 # LeeWindowTools
 
 A simple windows list and switch tool for Pharo.
-
-Usage: 
+## Install
+```smalltalk
+Metacello new
+   baseline: 'LeeWindowTools';
+	repository: 'github://albertlee/LeeWindowTools:main/';
+	load
+```
+## Usage: 
 ```
 LeeWindowsList open
 ```
