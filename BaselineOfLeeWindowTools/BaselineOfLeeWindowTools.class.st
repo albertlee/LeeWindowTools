@@ -1,11 +1,11 @@
 Class {
-	#name : #BaselineOfLeeWindowsList,
+	#name : #BaselineOfLeeWindowTools,
 	#superclass : #BaselineOf,
 	#category : #BaselineOfLeeWindowTools
 }
 
 { #category : #baselines }
-BaselineOfLeeWindowsList >> baseline: spec [
+BaselineOfLeeWindowTools >> baseline: spec [
 
 	<baseline>
 	spec for: #common do: [ 
