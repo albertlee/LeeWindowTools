@@ -8,7 +8,7 @@ Class {
 BaselineOfLeeWindowTools >> baseline: spec [
 
 	<baseline>
-	spec for: #common do: [ 
+	spec for: #pharo do: [ 
 		spec
 			package: 'LeeWindowTools'
 			]
