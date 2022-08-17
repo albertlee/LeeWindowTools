@@ -8,6 +8,15 @@ Class {
 	#category : #LeeWindowTools
 }
 
+{ #category : #'world menu' }
+LeeWindowsList class >> menuCommandOn: aBuilder [
+
+	<worldMenu>
+	(aBuilder
+		 item: 'List Windows';
+		 parent: #Windows) action: [ self open ]
+]
+
 { #category : #'instance creation' }
 LeeWindowsList class >> open [
 
