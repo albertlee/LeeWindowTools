@@ -11,6 +11,10 @@ or, just simply click the open icon on LeeWindowsList's class side.
 
 ![LeeWindowsList](./docs/LeeWindowsTool_1.png)
 
+or, open in the Windows menu:
+
+![Menu](./docs/LeeWindowTools_menu.png)
+
 It will open a window, listing all the windows opened, then click to switch.
 
 ![Demo Window](docs/LeeWindowTools_demo.png)
