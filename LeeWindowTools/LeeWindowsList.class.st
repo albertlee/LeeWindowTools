@@ -61,6 +61,14 @@ LeeWindowsList >> initializePresenters [
 
 ]
 
+{ #category : #initialization }
+LeeWindowsList >> initializeWindow: w [
+
+	w
+		title: 'Windows';
+		initialExtent: 1200 @ 800
+]
+
 { #category : #layout }
 LeeWindowsList >> lineLayoutForWindows: lineWindows [
 
